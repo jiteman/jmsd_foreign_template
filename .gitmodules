@@ -1,0 +1,6 @@
+[submodule "_jmsd_cmake_settings"]
+	path = _jmsd_cmake_settings
+	url = https://github.com/jiteman/_jmsd_cmake_settings.git
+[submodule "_jmsd_platform_support"]
+	path = _jmsd_platform_support
+	url = https://github.com/jiteman/_jmsd_platform_support.git
