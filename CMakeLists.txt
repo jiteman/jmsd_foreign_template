@@ -19,6 +19,7 @@ include( ${JMSD_CMAKE_SETTINGS_PATH}/set-all-settings.cmake )
 
 include( ${JMSD_CMAKE_SETTINGS_PATH}/verbosity/project-group-header.cmake )
 
+add_subdirectory( _foreign_code_base )
 add_subdirectory( library_subproject_template )
 add_subdirectory( executable_template )
 
