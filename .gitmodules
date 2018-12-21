@@ -4,3 +4,6 @@
 [submodule "_jmsd_platform_support"]
 	path = _jmsd_platform_support
 	url = https://github.com/jiteman/_jmsd_platform_support.git
+[submodule "_foreign_code_base"]
+	path = _foreign_code_base
+	url = https://github.com/jiteman/_foreign_code_base.git
