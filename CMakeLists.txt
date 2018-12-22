@@ -1,6 +1,6 @@
 cmake_minimum_required( VERSION 3.7.1 )
 
-project( jmsd_solution_template )
+project( jmsd_foreign_template )
 
 if ( NOT DEFINED JMSD_CMAKE_SETTINGS_PATH )
 	set( JMSD_CMAKE_SETTINGS_PATH ${CMAKE_SOURCE_DIR}/_jmsd_cmake_settings/cmake )
