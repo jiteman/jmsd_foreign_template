@@ -7,7 +7,7 @@ namespace blt {
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 char const *Base_class::say_base_hello() const noexcept {
-	return "base hello";
+	return "Base_class::say_base_hello";
 }
 
 // = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =

@@ -7,7 +7,7 @@ namespace dlt {
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 char const *Derived_class::say_derived_hello() const noexcept {
-	return "derived hello";
+	return "Derived_class::say_derived_hello";
 }
 
 // = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =

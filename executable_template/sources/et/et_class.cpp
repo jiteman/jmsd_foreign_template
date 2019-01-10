@@ -7,7 +7,7 @@ namespace et {
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 char const *Executable_class::say_executable_hello() const noexcept {
-	return "executable hello";
+	return "Executable_class::say_executable_hello";
 }
 
 // = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
